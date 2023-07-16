@@ -1,0 +1,75 @@
+body{
+	background-image: url('background.jpg');
+	background-size: cover;
+	background-position: center;	
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+	min-width: 30rem;
+	height: 100vh;
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+	padding: 2rem;
+}
+
+.inner-container{
+	width: 100%;
+}
+
+.inputBox{
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px; 
+}
+
+.inputText{
+  display: inline-flex;
+  margin: 10px;
+  margin-left: 0; /* Remove margin-left to align input with the icon */
+  width: 100%;
+  background: transparent;
+  border: transparent;
+  font-size: 1rem;
+  outline: none;
+}
+
+.title{
+	font-family: sans-serif;
+	font-size: 3rem;
+	text-align: center;
+}
+
+.button{
+	background: lightblue;
+	border-radius: 30px;
+	height: 40px;
+	text-align: center;
+	font-family: sans-serif;
+	align-content: center;
+	line-height: 40px;
+	width: 50%;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button:hover{
+	background: #2F5597;
+	color: white;
+	cursor: pointer;
+}
+
+.icon {
+	display: flex;
+	align-items: center;
+	position: relative;
+	left: 0; /* Change from 10px to 0 */
+	margin-right: 10px; /* Add margin-right to create spacing between the icon and input */
+}
