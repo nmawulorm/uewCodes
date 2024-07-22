@@ -1,31 +1,10 @@
--- phpMyAdmin SQL Dump
--- version 5.2.0
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Generation Time: Sep 13, 2022 at 05:26 PM
--- Server version: 10.4.24-MariaDB
--- PHP Version: 8.1.6
+CREATE DATABASE `nicholas_db`;
+
+USE `nicholas_db`;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
-
--- New change for today
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
---
--- Database: `test_db`
---
-
--- --------------------------------------------------------
-
---
--- Table structure for table `agents`
---
 
 CREATE TABLE `agents` (
   `AGENT_CODE` varchar(6) NOT NULL,
@@ -36,9 +15,6 @@ CREATE TABLE `agents` (
   `COUNTRY` varchar(25) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `agents`
---
 
 INSERT INTO `agents` (`AGENT_CODE`, `AGENT_NAME`, `WORKING_AREA`, `COMMISSION`, `PHONE_NO`, `COUNTRY`) VALUES
 ('A001', 'Subbarao', 'Bangalore', '0.14', '077-12346674', ''),
@@ -54,11 +30,6 @@ INSERT INTO `agents` (`AGENT_CODE`, `AGENT_NAME`, `WORKING_AREA`, `COMMISSION`, 
 ('A011', 'Ravi Kumar', 'Bangalore', '0.15', '077-45625874', ''),
 ('A012', 'Lucida', 'San Jose', '0.12', '044-52981425', '');
 
--- --------------------------------------------------------
-
---
--- Table structure for table `customer`
---
 
 CREATE TABLE `customer` (
   `CUST_CODE` varchar(6) NOT NULL,
@@ -75,9 +46,6 @@ CREATE TABLE `customer` (
   `AGENT_CODE` varchar(6) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `customer`
---
 
 INSERT INTO `customer` (`CUST_CODE`, `CUST_NAME`, `CUST_CITY`, `WORKING_AREA`, `CUST_COUNTRY`, `GRADE`, `OPENING_AMT`, `RECEIVE_AMT`, `PAYMENT_AMT`, `OUTSTANDING_AMT`, `PHONE_NO`, `AGENT_CODE`) VALUES
 ('C00001', 'Micheal', 'New York', 'New York', 'USA', 2, '3000.00', '5000.00', '2000.00', '6000.00', 'CCCCCCC', 'A008'),
@@ -106,11 +74,7 @@ INSERT INTO `customer` (`CUST_CODE`, `CUST_NAME`, `CUST_CITY`, `WORKING_AREA`, `
 ('C00024', 'Cook', 'London', 'London', 'UK', 2, '4000.00', '9000.00', '7000.00', '6000.00', 'FSDDSDF', 'A006'),
 ('C00025', 'Ravindran', 'Bangalore', 'Bangalore', 'India', 2, '5000.00', '7000.00', '4000.00', '8000.00', 'AVAVAVA', 'A011');
 
--- --------------------------------------------------------
 
---
--- Table structure for table `orders`
---
 
 CREATE TABLE `orders` (
   `ORD_NUM` decimal(6,0) NOT NULL,
@@ -122,9 +86,6 @@ CREATE TABLE `orders` (
   `ORD_DESCRIPTION` varchar(60) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Dumping data for table `orders`
---
 
 INSERT INTO `orders` (`ORD_NUM`, `ORD_AMOUNT`, `ADVANCE_AMOUNT`, `ORD_DATE`, `CUST_CODE`, `AGENT_CODE`, `ORD_DESCRIPTION`) VALUES
 ('200100', '1000.00', '600.00', '2008-08-01', 'C00013', 'A003', 'SOD'),
