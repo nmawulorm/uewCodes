@@ -1,0 +1,214 @@
+﻿Order ID,Product,Category,Amount,Date,Country
+1,Carrots,Vegetables,$4270,01-06-16,United States
+2,Broccoli,Vegetables,$8239,01-07-16,United Kingdom
+3,Banana,Fruit,$617,01-08-16,United States
+4,Banana,Fruit,$8384,01-10-16,Canada
+5,Beans,Vegetables,$2626,01-10-16,Germany
+6,Orange,Fruit,$3610,01-11-16,United States
+7,Broccoli,Vegetables,$9062,01-11-16,Australia
+8,Banana,Fruit,$6906,01-16-16,New Zealand
+9,Apple,Fruit,$2417,01-16-16,France
+10,Apple,Fruit,$7431,01-16-16,Canada
+11,Banana,Fruit,$8250,01-16-16,Germany
+12,Broccoli,Vegetables,$7012,01-18-16,United States
+13,Carrots,Vegetables,$1903,01-20-16,Germany
+14,Broccoli,Vegetables,$2824,01-22-16,Canada
+15,Apple,Fruit,$6946,01-24-16,France
+16,Banana,Fruit,$2320,01-27-16,United Kingdom
+17,Banana,Fruit,$2116,01-28-16,United States
+18,Banana,Fruit,$1135,01-30-16,United Kingdom
+19,Broccoli,Vegetables,$3595,01-30-16,United Kingdom
+20,Apple,Fruit,$1161,02-02-16,United States
+21,Orange,Fruit,$2256,02-04-16,France
+22,Banana,Fruit,$1004,02-11-16,New Zealand
+23,Banana,Fruit,$3642,02-14-16,Canada
+24,Banana,Fruit,$4582,02-17-16,United States
+25,Beans,Vegetables,$3559,02-17-16,United Kingdom
+26,Carrots,Vegetables,$5154,02-17-16,Australia
+27,Mango,Fruit,$7388,02-18-16,France
+28,Beans,Vegetables,$7163,02-18-16,United States
+29,Beans,Vegetables,$5101,02-20-16,Germany
+30,Apple,Fruit,$7602,02-21-16,France
+31,Mango,Fruit,$1641,02-22-16,United States
+32,Apple,Fruit,$8892,02-23-16,Australia
+33,Apple,Fruit,$2060,02-29-16,France
+34,Broccoli,Vegetables,$1557,02-29-16,Germany
+35,Apple,Fruit,$6509,03-01-16,France
+36,Apple,Fruit,$5718,03-04-16,Australia
+37,Apple,Fruit,$7655,03-05-16,United States
+38,Carrots,Vegetables,$9116,03-05-16,United Kingdom
+39,Banana,Fruit,$2795,03-15-16,United States
+40,Banana,Fruit,$5084,03-15-16,United States
+41,Carrots,Vegetables,$8941,03-15-16,United Kingdom
+42,Broccoli,Vegetables,$5341,03-16-16,France
+43,Banana,Fruit,$135,03-19-16,Canada
+44,Banana,Fruit,$9400,03-19-16,Australia
+45,Beans,Vegetables,$6045,03-21-16,Germany
+46,Apple,Fruit,$5820,03-22-16,New Zealand
+47,Orange,Fruit,$8887,03-23-16,Germany
+48,Orange,Fruit,$6982,03-24-16,United States
+49,Banana,Fruit,$4029,03-26-16,Australia
+50,Carrots,Vegetables,$3665,03-26-16,Germany
+51,Banana,Fruit,$4781,03-29-16,France
+52,Mango,Fruit,$3663,03-30-16,Australia
+53,Apple,Fruit,$6331,04-01-16,France
+54,Apple,Fruit,$4364,04-01-16,Canada
+55,Carrots,Vegetables,$607,04-03-16,United Kingdom
+56,Banana,Fruit,$1054,04-06-16,New Zealand
+57,Carrots,Vegetables,$7659,04-06-16,United States
+58,Broccoli,Vegetables,$277,04-12-16,Germany
+59,Banana,Fruit,$235,04-17-16,United States
+60,Orange,Fruit,$1113,04-18-16,Australia
+61,Apple,Fruit,$1128,04-21-16,United States
+62,Broccoli,Vegetables,$9231,04-22-16,Canada
+63,Banana,Fruit,$4387,04-23-16,United States
+64,Apple,Fruit,$2763,04-25-16,Canada
+65,Banana,Fruit,$7898,04-27-16,United Kingdom
+66,Banana,Fruit,$2427,04-30-16,France
+67,Banana,Fruit,$8663,05-01-16,New Zealand
+68,Carrots,Vegetables,$2789,05-01-16,Germany
+69,Banana,Fruit,$4054,05-02-16,United States
+70,Mango,Fruit,$2262,05-02-16,United States
+71,Mango,Fruit,$5600,05-02-16,United Kingdom
+72,Banana,Fruit,$5787,05-03-16,United States
+73,Orange,Fruit,$6295,05-03-16,Canada
+74,Banana,Fruit,$474,05-05-16,Germany
+75,Apple,Fruit,$4325,05-05-16,France
+76,Banana,Fruit,$592,05-06-16,United States
+77,Orange,Fruit,$4330,05-08-16,United States
+78,Banana,Fruit,$9405,05-08-16,United Kingdom
+79,Apple,Fruit,$7671,05-08-16,France
+80,Carrots,Vegetables,$5791,05-08-16,United Kingdom
+81,Banana,Fruit,$6007,05-12-16,Canada
+82,Banana,Fruit,$5030,05-14-16,Germany
+83,Carrots,Vegetables,$6763,05-14-16,United Kingdom
+84,Banana,Fruit,$4248,05-15-16,Australia
+85,Banana,Fruit,$9543,05-16-16,France
+86,Broccoli,Vegetables,$2054,05-16-16,United Kingdom
+87,Beans,Vegetables,$7094,05-16-16,Germany
+88,Carrots,Vegetables,$6087,05-18-16,United States
+89,Apple,Fruit,$4264,05-19-16,Australia
+90,Mango,Fruit,$9333,05-20-16,United States
+91,Mango,Fruit,$8775,05-22-16,Germany
+92,Broccoli,Vegetables,$2011,05-23-16,United Kingdom
+93,Banana,Fruit,$5632,05-25-16,United States
+94,Banana,Fruit,$4904,05-25-16,New Zealand
+95,Beans,Vegetables,$1002,05-25-16,Australia
+96,Orange,Fruit,$8141,05-26-16,United Kingdom
+97,Orange,Fruit,$3644,05-26-16,Canada
+98,Orange,Fruit,$1380,05-26-16,Australia
+99,Broccoli,Vegetables,$8354,05-26-16,Germany
+100,Banana,Fruit,$5182,05-27-16,United States
+101,Apple,Fruit,$2193,05-27-16,France
+102,Mango,Fruit,$3647,05-28-16,United States
+103,Apple,Fruit,$4104,05-28-16,United States
+104,Carrots,Vegetables,$7457,05-28-16,United States
+105,Mango,Fruit,$3767,05-29-16,Canada
+106,Broccoli,Vegetables,$4685,05-30-16,Germany
+107,Banana,Fruit,$3917,06-04-16,United States
+108,Apple,Fruit,$521,06-04-16,Canada
+109,Apple,Fruit,$5605,06-10-16,France
+110,Broccoli,Vegetables,$9630,06-11-16,Germany
+111,Banana,Fruit,$6941,06-20-16,Canada
+112,Broccoli,Vegetables,$7231,06-20-16,United Kingdom
+113,Broccoli,Vegetables,$8891,06-23-16,Australia
+114,Banana,Fruit,$107,06-25-16,France
+115,Banana,Fruit,$4243,06-26-16,United States
+116,Orange,Fruit,$4514,06-27-16,United States
+117,Mango,Fruit,$5480,07-02-16,United States
+118,Banana,Fruit,$5002,07-02-16,France
+119,Banana,Fruit,$8530,07-05-16,Canada
+120,Orange,Fruit,$4819,07-07-16,New Zealand
+121,Broccoli,Vegetables,$6343,07-11-16,United Kingdom
+122,Orange,Fruit,$2318,07-13-16,United Kingdom
+123,Orange,Fruit,$220,07-20-16,United Kingdom
+124,Orange,Fruit,$6341,07-20-16,New Zealand
+125,Apple,Fruit,$330,07-20-16,Germany
+126,Broccoli,Vegetables,$3027,07-20-16,United Kingdom
+127,Orange,Fruit,$850,07-22-16,New Zealand
+128,Banana,Fruit,$8986,07-23-16,United Kingdom
+129,Broccoli,Vegetables,$3800,07-25-16,United States
+130,Carrots,Vegetables,$5751,07-28-16,United Kingdom
+131,Apple,Fruit,$1704,07-29-16,United Kingdom
+132,Banana,Fruit,$7966,07-30-16,Australia
+133,Banana,Fruit,$852,07-31-16,United States
+134,Beans,Vegetables,$8416,07-31-16,Australia
+135,Banana,Fruit,$7144,08-01-16,France
+136,Broccoli,Vegetables,$7854,08-01-16,United States
+137,Orange,Fruit,$859,08-03-16,United States
+138,Broccoli,Vegetables,$8049,08-12-16,United States
+139,Banana,Fruit,$2836,08-13-16,Germany
+140,Carrots,Vegetables,$1743,08-19-16,United States
+141,Apple,Fruit,$3844,08-23-16,France
+142,Apple,Fruit,$7490,08-24-16,France
+143,Broccoli,Vegetables,$4483,08-25-16,Germany
+144,Apple,Fruit,$7333,08-27-16,Canada
+145,Carrots,Vegetables,$7654,08-28-16,United States
+146,Apple,Fruit,$3944,08-29-16,United Kingdom
+147,Beans,Vegetables,$5761,08-29-16,Germany
+148,Banana,Fruit,$6864,09-01-16,New Zealand
+149,Banana,Fruit,$4016,09-01-16,Germany
+150,Banana,Fruit,$1841,09-02-16,United States
+151,Banana,Fruit,$424,09-05-16,Australia
+152,Banana,Fruit,$8765,09-07-16,United Kingdom
+153,Banana,Fruit,$5583,09-08-16,United States
+154,Broccoli,Vegetables,$4390,09-09-16,New Zealand
+155,Broccoli,Vegetables,$352,09-09-16,Canada
+156,Apple,Fruit,$8489,09-11-16,United States
+157,Banana,Fruit,$7090,09-11-16,France
+158,Banana,Fruit,$7880,09-15-16,United States
+159,Orange,Fruit,$3861,09-18-16,United States
+160,Broccoli,Vegetables,$7927,09-19-16,Germany
+161,Banana,Fruit,$6162,09-20-16,United States
+162,Mango,Fruit,$5523,09-25-16,Australia
+163,Broccoli,Vegetables,$5936,09-25-16,United Kingdom
+164,Carrots,Vegetables,$7251,09-26-16,Germany
+165,Orange,Fruit,$6187,09-27-16,Australia
+166,Banana,Fruit,$3210,09-29-16,Germany
+167,Carrots,Vegetables,$682,09-29-16,Germany
+168,Banana,Fruit,$793,10-03-16,Australia
+169,Carrots,Vegetables,$5346,10-04-16,Germany
+170,Banana,Fruit,$7103,10-07-16,New Zealand
+171,Carrots,Vegetables,$4603,10-10-16,United States
+172,Apple,Fruit,$8160,10-16-16,France
+173,Apple,Fruit,$7171,10-23-16,United Kingdom
+174,Banana,Fruit,$3552,10-23-16,New Zealand
+175,Banana,Fruit,$7273,10-25-16,Australia
+176,Banana,Fruit,$2402,10-26-16,Germany
+177,Banana,Fruit,$1197,10-26-16,Australia
+178,Beans,Vegetables,$5015,10-26-16,Australia
+179,Orange,Fruit,$5818,11-02-16,United States
+180,Banana,Fruit,$4399,11-03-16,United Kingdom
+181,Carrots,Vegetables,$3011,11-03-16,United States
+182,Apple,Fruit,$4715,11-09-16,United Kingdom
+183,Apple,Fruit,$5321,11-12-16,France
+184,Banana,Fruit,$8894,11-15-16,United States
+185,Carrots,Vegetables,$4846,11-25-16,United Kingdom
+186,Broccoli,Vegetables,$284,11-25-16,Germany
+187,Orange,Fruit,$8283,11-26-16,United Kingdom
+188,Orange,Fruit,$9990,11-28-16,Canada
+189,Banana,Fruit,$9014,11-28-16,Australia
+190,Apple,Fruit,$1942,11-29-16,France
+191,Banana,Fruit,$7223,11-30-16,United States
+192,Carrots,Vegetables,$4673,12-02-16,United States
+193,Carrots,Vegetables,$9104,12-04-16,France
+194,Apple,Fruit,$6078,12-05-16,United States
+195,Beans,Vegetables,$3278,12-06-16,Germany
+196,Banana,Fruit,$136,12-12-16,Canada
+197,Banana,Fruit,$8377,12-12-16,Australia
+198,Banana,Fruit,$2382,12-12-16,United States
+199,Banana,Fruit,$8702,12-15-16,Germany
+200,Banana,Fruit,$5021,12-16-16,United States
+201,Apple,Fruit,$1760,12-16-16,Australia
+202,Banana,Fruit,$4766,12-18-16,Germany
+203,Beans,Vegetables,$1541,12-19-16,United Kingdom
+204,Orange,Fruit,$2782,12-20-16,United Kingdom
+205,Apple,Fruit,$2455,12-20-16,Canada
+206,Apple,Fruit,$4512,12-22-16,New Zealand
+207,Apple,Fruit,$8752,12-22-16,Germany
+208,Carrots,Vegetables,$9127,12-25-16,United States
+209,Apple,Fruit,$1777,12-28-16,France
+210,Beans,Vegetables,$680,12-28-16,France
+211,Orange,Fruit,$958,12-29-16,United States
+212,Carrots,Vegetables,$2613,12-29-16,Australia
+213,Carrots,Vegetables,$339,12-30-16,Australia
